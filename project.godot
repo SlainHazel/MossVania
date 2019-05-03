@@ -16,7 +16,15 @@ _global_script_class_icons={
 [application]
 
 config/name="MossVania"
+run/main_scene="res://TestScene.tscn"
 config/icon="res://icon.png"
+
+[display]
+
+window/size/width=240
+window/size/height=160
+window/stretch/mode="viewport"
+window/stretch/aspect="keep"
 
 [rendering]
 
